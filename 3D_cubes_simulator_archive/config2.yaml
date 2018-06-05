@@ -1,0 +1,6 @@
+binning: {binsz: 0.005, coordsys: CEL, enumbins: 20, nxpix: 500, nypix: 500, proj: TAN}
+logging: {working_dir: .}
+model: {dec: 22.0144, index: 2.9, pivot_energy: 0.15, prefactor: 2.0e-11, ra: 83.6333,
+  rad: 0.005, source: "\u2018pulsar\u2019", spectrum: pl, template: Sphere2D, use_psf: false}
+pointing: {dec: 22.0144, livetime: 50.0 hour, ra: 83.6333}
+selection: {ROI: 5 deg, emax: 300.0, emin: 0.02, offset_fov: 2}
