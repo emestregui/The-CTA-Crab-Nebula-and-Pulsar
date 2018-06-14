@@ -1,5 +1,5 @@
 """
-An example how to fit the size of a source from a 3D n_pred / n_obs cube.
+An example of how to fit the size of a source from a 3D n_pred / n_obs cube.
 
 Using CTA IRFs.
 
